@@ -7,6 +7,4 @@ assignees: ''
 
 ---
 
-Please provide all necessary informations to reproduce this issue.
 
-[How to write a good bug report?](https://duckduckgo.com/?q=how+to+write+a+good+bug+report&t=ipad&ia=web)

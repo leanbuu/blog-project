@@ -7,6 +7,6 @@ keywords: [about, creator]
 type: about
 ---
 
-# ĐÂY LÀ BLOG VỀ CỦA NHÓM AN VÀ TUẤN ĐỂ HOÀN THÀNH DỰ ÁN BÀI TẬP FONT-END #
+# ĐÂY LÀ BLOG CỦA NHÓM AN VÀ TUẤN ĐỂ HOÀN THÀNH DỰ ÁN BÀI TẬP FONT-END #
 # CẢM ƠN ANH ĐÃ XEM 
 
